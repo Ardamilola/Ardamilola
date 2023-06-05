@@ -1,1 +1,1 @@
-Hello, I am Ramat AJiboye and i am transitioning to DevOps
+Hello, I am Ramat Ajiboye and i am transitioning to DevOps
